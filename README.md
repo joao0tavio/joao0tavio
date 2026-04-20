@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Graduando em Engenharia de Software pela PUC Minas, atuo atualmente como estagiário na área de dados. Possuo experiência em prospecção e Inteligência de Mercado, onde desenvolvi habilidades em CRM, fluxos e identificação de oportunidades. Tenho interesse consolidado em Machine Learning e em aprofundar minha atuação em análise de dados de forma aplicada.</p>
+<p align="left">Graduando em Engenharia de Software pela PUC Minas, atuo atualmente como estagiário na área de dados. Possuo experiência em Prospecção e Inteligência de Mercado, onde desenvolvi habilidades em CRM, fluxos e identificação de oportunidades. Tenho interesse em Machine Learning e em aprofundar minha atuação em análise de dados de forma aplicada.</p>
 
 ###
 
